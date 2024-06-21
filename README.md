@@ -7,13 +7,13 @@ Welcome to the NEXTJS project! This comprehensive guide will walk you through ev
 This project is a Next.js application that features a theme toggle button, allowing users to switch between light and dark modes. The button is implemented using Shadcn UI components. This project demonstrates the integration of Next.js, TypeScript, and the next-themes library to manage theme changes, alongside the use of Shadcn UI for button styling.
 
 ## Features
-
 - **Light/Dark Mode Toggle**: Users can switch between light and dark themes.
-- **Shadcn UI Integration**: Custom styled button using [Shadcn UI](https://shadcn.dev/).
+- **Shadcn UI Integration**: Custom styled button using Shadcn UI.
 - **Responsive Navigation Bar**: Includes navigation links and a theme toggle button.
-- **Next.js Server-Side Rendering**: Efficient server-side rendering and static site generation with [Next.js](https://nextjs.org/).
-- **TypeScript**: Ensures type safety throughout the application with [TypeScript](https://www.typescriptlang.org/).
-- **Theme Management**: Seamless theme management using [next-themes](https://github.com/pacocoursey/next-themes).
+- **Next.js Server-Side Rendering**: Efficient server-side rendering and static site generation with Next.js.
+- **TypeScript**: Ensures type safety throughout the application.
+- **Theme Management**: Seamless theme management using next-themes.
+
 
 
 ## Live Demo
@@ -57,13 +57,15 @@ You can try out the live demo of the app [here](https://nextjs-shadcn-dark-mode-
 
 <img src="https://github.com/nishkarsh25/NEXTJS-ShadcnDarkMode/blob/master/Screenshots/ss3.gif" alt="Screenshot 1" width="1000"> 
 
+
 ## Technologies Used
-- [Next.js](https://nextjs.org/): A React framework for server-side rendering and static site generation.
-- [TypeScript](https://www.typescriptlang.org/): A typed superset of JavaScript that compiles to plain JavaScript.
-- [Shadcn UI](https://shadcn.dev/): A component library for building user interfaces.
-- [next-themes](https://github.com/pacocoursey/next-themes): A theme management library for Next.js applications.
-- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
-- [Lucide Icons](https://lucide.dev/): Icon library used for theme toggle icons (Sun and Moon).
+- Next.js: A React framework for server-side rendering and static site generation.
+- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
+- Shadcn UI: A component library for building user interfaces.
+- next-themes: A theme management library for Next.js applications.
+- React: A JavaScript library for building user interfaces.
+- Lucide Icons: Icon library used for theme toggle icons (Sun and Moon).
+
 
 ## Getting Started
 
