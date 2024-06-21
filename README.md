@@ -18,7 +18,7 @@ This project is a Next.js application that features a theme toggle button, allow
 
 ## Live Demo
 
-You can try out the live demo of the app [here](https://nextjs-shadcndarkmode.onrender.com).
+You can try out the live demo of the app [here](https://nextjs-shadcn-dark-mode-ms6n22tcy-nishkarsh25s-projects.vercel.app/).
 
 ## Folder Structure
 
